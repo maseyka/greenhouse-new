@@ -45,7 +45,7 @@ Deploy the .war to any Servlet 2.5 >, such as Tomcat. By default, the app will r
 
 		$ mvn t7:run
 
-2. Access the deployed webapp at 
+2. Access the deployed webapp at asd
 
 		http://localhost:8080/greenhouse
 
